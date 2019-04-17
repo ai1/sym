@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'Rose';
+src: url('https://rawcdn.githack.com/ai1/sym/74b4a2679f9152ab7c48b4fd70f189a7e8650eef/rose.eot');
+src: url('https://rawcdn.githack.com/ai1/sym/74b4a2679f9152ab7c48b4fd70f189a7e8650eef/rose.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/sym/74b4a2679f9152ab7c48b4fd70f189a7e8650eef/rose.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/sym/74b4a2679f9152ab7c48b4fd70f189a7e8650eef/rose.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/sym/74b4a2679f9152ab7c48b4fd70f189a7e8650eef/rose.svg#Rose') format('svg');
+font-weight: normal;
+font-style: normal;
+}
